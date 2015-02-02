@@ -15,4 +15,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+    <build>
+        <defaultGoal>install</defaultGoal>
+    </build>
+
+
 </project>
